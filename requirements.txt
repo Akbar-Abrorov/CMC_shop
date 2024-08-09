@@ -28,3 +28,4 @@ model-bakery==1.18.2
 python-dateutil==2.9.0.post0
 pytz==2024.1
 
+flask==3.0.3
