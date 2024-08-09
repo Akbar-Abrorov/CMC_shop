@@ -1,0 +1,22 @@
+body { 
+  margin: 0;
+}
+
+.home-page { 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #48c6ef, #0049f9);
+  height: 1000;
+  width: 1000;
+}
+
+.logo {
+  width: 300px;
+}
+
+.thumbnail {
+  object-fit: cover;
+  width: 100px;
+  height: 100px;
+}
